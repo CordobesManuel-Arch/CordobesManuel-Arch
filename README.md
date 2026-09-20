@@ -1,6 +1,6 @@
 <!-- profile-readme: CordobesManuel-Arch | refreshed after repository rename -->
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Manuel Cordobés — AI Systems, Automation, Software and Infrastructure" />
+  <img src="https://raw.githubusercontent.com/CordobesManuel-Arch/CordobesManuel-Arch/main/assets/hero.svg?v=3" width="100%" alt="Manuel Cordobés — AI Systems, Automation, Software and Infrastructure" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/CordobesManuel-Arch/CordobesManuel-Arch/main/assets/divider.svg?v=3" width="100%" alt="" />
 </p>
 
 ## 01 / SYSTEM PROFILE
@@ -25,7 +25,7 @@ I work across the full system boundary: **product → interface → backend → 
 My focus is not isolated demos. I build systems intended to survive real operations: observable workflows, explicit failure paths, maintainable architecture, repeatable deployment and a clear boundary between what should be automated and what should remain under human control.
 
 <p align="center">
-  <img src="./assets/terminal.svg" width="100%" alt="Aurae engineering runtime" />
+  <img src="https://raw.githubusercontent.com/CordobesManuel-Arch/CordobesManuel-Arch/main/assets/terminal.svg?v=3" width="100%" alt="Aurae engineering runtime" />
 </p>
 
 ## 02 / WHAT I BUILD
@@ -115,7 +115,7 @@ The loop matters more than the first attempt. I prefer systems that expose state
 - **Developer tooling:** interfaces that make complex automation understandable and operable.
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="" />
+  <img src="https://raw.githubusercontent.com/CordobesManuel-Arch/CordobesManuel-Arch/main/assets/divider.svg?v=3" width="100%" alt="" />
 </p>
 
 ## 07 / BUILD WITH ME
