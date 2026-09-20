@@ -1,0 +1,82 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0C0E"/>
+      <stop offset=".5" stop-color="#111315"/>
+      <stop offset="1" stop-color="#0A0C0E"/>
+    </linearGradient>
+    <filter id="soft" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="1198" height="248" rx="18" fill="url(#panel)" stroke="#272A2C"/>
+  <rect x="1" y="1" width="1198" height="42" rx="18" fill="#15181A"/>
+  <path d="M1 42H1199" stroke="#242729"/>
+
+  <circle cx="24" cy="22" r="4" fill="#5C4030"/>
+  <circle cx="40" cy="22" r="4" fill="#6A561D"/>
+  <circle cx="56" cy="22" r="4" fill="#345843"/>
+  <text x="600" y="27" text-anchor="middle" fill="#777B77" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">aurae://engineering-runtime</text>
+
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+    <text x="34" y="78" fill="#E8A020">$</text>
+    <text x="54" y="78" fill="#C7CBC5">boot --profile manuel --mode build</text>
+    <text x="34" y="108" fill="#6E746E">[01]</text>
+    <text x="78" y="108" fill="#A7ACA6">agents</text>
+    <text x="212" y="108" fill="#E8A020">online</text>
+    <circle cx="286" cy="103" r="3" fill="#E8A020">
+      <animate attributeName="opacity" values=".2;1;.2" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="34" y="136" fill="#6E746E">[02]</text>
+    <text x="78" y="136" fill="#A7ACA6">automation</text>
+    <text x="212" y="136" fill="#E8A020">online</text>
+    <circle cx="286" cy="131" r="3" fill="#E8A020">
+      <animate attributeName="opacity" values=".2;1;.2" dur="1.8s" begin=".35s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="34" y="164" fill="#6E746E">[03]</text>
+    <text x="78" y="164" fill="#A7ACA6">infrastructure</text>
+    <text x="212" y="164" fill="#E8A020">online</text>
+    <circle cx="286" cy="159" r="3" fill="#E8A020">
+      <animate attributeName="opacity" values=".2;1;.2" dur="1.8s" begin=".7s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="34" y="204" fill="#E8A020">&gt;</text>
+    <text x="54" y="204" fill="#F0F1ED">observe → plan → execute → verify → learn</text>
+    <rect x="430" y="191" width="8" height="17" rx="1" fill="#E8A020">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g transform="translate(710 82)" font-family="Segoe UI, Inter, Arial, sans-serif">
+    <text x="0" y="0" fill="#6D716D" font-size="10" font-weight="700" letter-spacing="2.2">BUILD MATRIX</text>
+
+    <g transform="translate(0 26)">
+      <rect width="420" height="8" rx="4" fill="#1F2223"/>
+      <rect width="344" height="8" rx="4" fill="#E8A020" opacity=".72">
+        <animate attributeName="width" values="250;344;318;344" dur="5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="0" y="27" fill="#8D918C" font-size="11">SYSTEM DESIGN</text>
+      <text x="420" y="27" text-anchor="end" fill="#B8BBB6" font-size="11">END-TO-END</text>
+    </g>
+
+    <g transform="translate(0 77)">
+      <rect width="420" height="8" rx="4" fill="#1F2223"/>
+      <rect width="378" height="8" rx="4" fill="#E8A020" opacity=".72">
+        <animate attributeName="width" values="280;378;350;378" dur="6s" repeatCount="indefinite"/>
+      </rect>
+      <text x="0" y="27" fill="#8D918C" font-size="11">AUTOMATION</text>
+      <text x="420" y="27" text-anchor="end" fill="#B8BBB6" font-size="11">OPERATIONAL</text>
+    </g>
+
+    <g transform="translate(0 128)">
+      <rect width="420" height="8" rx="4" fill="#1F2223"/>
+      <rect width="315" height="8" rx="4" fill="#E8A020" opacity=".72">
+        <animate attributeName="width" values="210;315;295;315" dur="5.5s" repeatCount="indefinite"/>
+      </rect>
+      <text x="0" y="27" fill="#8D918C" font-size="11">INFRASTRUCTURE</text>
+      <text x="420" y="27" text-anchor="end" fill="#B8BBB6" font-size="11">SCALING</text>
+    </g>
+  </g>
+</svg>
