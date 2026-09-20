@@ -53,47 +53,7 @@ My focus is not isolated demos. I build systems intended to survive real operati
 </tr>
 </table>
 
-## 03 / ENGINEERING STACK
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=E8A020" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=E8A020" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=E8A020" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=E8A020" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=E8A020" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=nodedotjs&logoColor=E8A020" alt="Node.js" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-111111?style=flat-square&logo=n8n&logoColor=E8A020" alt="n8n" />
-  <img src="https://img.shields.io/badge/Supabase-111111?style=flat-square&logo=supabase&logoColor=E8A020" alt="Supabase" />
-  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=E8A020" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=E8A020" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=E8A020" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=E8A020" alt="Linux" />
-  <img src="https://img.shields.io/badge/Arch%20Linux-111111?style=flat-square&logo=archlinux&logoColor=E8A020" alt="Arch Linux" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=E8A020" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=E8A020" alt="Figma" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111111?style=flat-square&logoColor=E8A020" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logoColor=E8A020" alt="Model Context Protocol" />
-</p>
-
-## 04 / OPERATING LOOP
-
-```text
-GOAL
-  ↓
-OBSERVE → PLAN → EXECUTE → VERIFY
-   ↑                         ↓
-   └──────── LEARN ←─────────┘
-```
-
-The loop matters more than the first attempt. I prefer systems that expose state, verify their own work and improve through iteration instead of assuming success.
-
-## 05 / CURRENT FOCUS
+## 03 / CURRENT FOCUS
 
 - **Agent orchestration:** making multiple AI agents useful as an actual engineering team rather than a collection of chat windows.
 - **Kubernetes & distributed infrastructure:** moving from single-server deployments toward reproducible, resilient service architecture.
@@ -105,7 +65,7 @@ The loop matters more than the first attempt. I prefer systems that expose state
   <img src="https://raw.githubusercontent.com/CordobesManuel-Arch/CordobesManuel-Arch/main/assets/divider.svg?v=3" width="100%" alt="" />
 </p>
 
-## 06 / BUILD WITH ME
+## 04 / BUILD WITH ME
 
 If you are working on **AI systems, automation, agents, infrastructure or software products**, the fastest way to reach me is through Aurae AI or LinkedIn.
 
