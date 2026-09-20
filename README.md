@@ -20,9 +20,9 @@
 
 ## 01 / SYSTEM PROFILE
 
-I work across the full system boundary: **product → interface → backend → agents → automation → data → deployment**.
+I design and build **end-to-end digital systems** focused on reliability, usability and measurable operational value.
 
-My focus is not isolated demos. I build systems intended to survive real operations: observable workflows, explicit failure paths, maintainable architecture, repeatable deployment and a clear boundary between what should be automated and what should remain under human control.
+My work is centered on turning complex processes into products that are easier to operate, easier to scale and safer to maintain — without exposing the internal methods, architecture or implementation choices behind them.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CordobesManuel-Arch/CordobesManuel-Arch/main/assets/terminal.svg?v=3" width="100%" alt="Aurae engineering runtime" />
@@ -33,33 +33,33 @@ My focus is not isolated demos. I build systems intended to survive real operati
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>AI &amp; Agent Systems</h3>
-<p>Multi-agent orchestration, tool use, local/remote model routing, execution loops and human-in-the-loop workflows.</p>
+<h3>Intelligent Systems</h3>
+<p>Custom systems that assist decision-making, reduce repetitive work and improve how teams operate.</p>
 </td>
 <td width="50%" valign="top">
-<h3>Automation &amp; Backends</h3>
-<p>FastAPI services, n8n workflows, integrations, business process automation, APIs and operational tooling.</p>
+<h3>Business Automation</h3>
+<p>Digital workflows that reduce manual effort, shorten response times and make operations more consistent.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>Infrastructure</h3>
-<p>Linux-first environments, Docker, VPS deployments, Kubernetes/K3s research, observability and service architecture.</p>
+<h3>Operational Platforms</h3>
+<p>Internal products designed to centralize processes, improve visibility and support day-to-day execution.</p>
 </td>
 <td width="50%" valign="top">
 <h3>Product Engineering</h3>
-<p>Desktop apps, internal platforms, 3D-printing software experiments, dashboards and end-to-end software systems.</p>
+<p>Software products built from concept to production with emphasis on clarity, reliability and long-term maintainability.</p>
 </td>
 </tr>
 </table>
 
 ## 03 / CURRENT FOCUS
 
-- **Agent orchestration:** making multiple AI agents useful as an actual engineering team rather than a collection of chat windows.
-- **Kubernetes & distributed infrastructure:** moving from single-server deployments toward reproducible, resilient service architecture.
-- **AI-native operations:** replacing repetitive manual processes with observable, controlled systems.
-- **Local + cloud AI:** choosing where models should run based on cost, latency, privacy and capability.
-- **Developer tooling:** interfaces that make complex automation understandable and operable.
+- **Intelligent operations:** reducing friction in complex business processes.
+- **Reliability:** building systems that remain understandable and dependable as they grow.
+- **Scalability:** designing products that can evolve without exposing unnecessary internal complexity.
+- **Human oversight:** keeping critical decisions visible and controllable.
+- **Product quality:** making advanced systems feel simple to the people who use them.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CordobesManuel-Arch/CordobesManuel-Arch/main/assets/divider.svg?v=3" width="100%" alt="" />
