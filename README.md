@@ -81,31 +81,7 @@ My focus is not isolated demos. I build systems intended to survive real operati
   <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logoColor=E8A020" alt="Model Context Protocol" />
 </p>
 
-## 04 / OPERATING LOOP
-
-```text
-GOAL
-  ↓
-OBSERVE → PLAN → EXECUTE → VERIFY
-   ↑                         ↓
-   └──────── LEARN ←─────────┘
-```
-
-The loop matters more than the first attempt. I prefer systems that expose state, verify their own work and improve through iteration instead of assuming success.
-
-## 05 / CURRENT FOCUS
-
-- **Agent orchestration:** making multiple AI agents useful as an actual engineering team rather than a collection of chat windows.
-- **Kubernetes & distributed infrastructure:** moving from single-server deployments toward reproducible, resilient service architecture.
-- **AI-native operations:** replacing repetitive manual processes with observable, controlled systems.
-- **Local + cloud AI:** choosing where models should run based on cost, latency, privacy and capability.
-- **Developer tooling:** interfaces that make complex automation understandable and operable.
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CordobesManuel-Arch/CordobesManuel-Arch/main/assets/divider.svg?v=3" width="100%" alt="" />
-</p>
-
-## 06 / BUILD WITH ME
+## 04 / BUILD WITH ME
 
 If you are working on **AI systems, automation, agents, infrastructure or software products**, the fastest way to reach me is through Aurae AI or LinkedIn.
 
