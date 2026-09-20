@@ -1,0 +1,24 @@
+<svg width="1200" height="54" viewBox="0 0 1200 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E8A020" stop-opacity="0"/>
+      <stop offset=".28" stop-color="#E8A020" stop-opacity=".28"/>
+      <stop offset=".5" stop-color="#E8A020" stop-opacity=".75"/>
+      <stop offset=".72" stop-color="#E8A020" stop-opacity=".28"/>
+      <stop offset="1" stop-color="#E8A020" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="g" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+  </defs>
+  <path d="M40 27H1160" stroke="url(#line)"/>
+  <path d="M600 18L609 27L600 36L591 27Z" stroke="#E8A020" stroke-width="1.5" fill="#E8A020" fill-opacity=".08"/>
+  <circle cx="600" cy="27" r="2" fill="#F4C66B" filter="url(#g)">
+    <animate attributeName="r" values="1.5;4;1.5" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".5;1;.5" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="80" cy="27" r="1.8" fill="#E8A020">
+    <animate attributeName="cx" values="80;1120;80" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;.9;0" dur="11s" repeatCount="indefinite"/>
+  </circle>
+</svg>
