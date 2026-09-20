@@ -1,3 +1,4 @@
+<!-- profile-readme: CordobesManuel-Arch | refreshed after repository rename -->
 <p align="center">
   <img src="./assets/hero.svg" width="100%" alt="Manuel Cordobés — AI Systems, Automation, Software and Infrastructure" />
 </p>
