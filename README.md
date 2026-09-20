@@ -32,30 +32,22 @@ My focus is not isolated demos. I build systems intended to survive real operati
 <table>
 <tr>
 <td width="50%" valign="top">
-
-### AI & Agent Systems
-Multi-agent orchestration, tool use, local/remote model routing, execution loops and human-in-the-loop workflows.
-
+<h3>AI &amp; Agent Systems</h3>
+<p>Multi-agent orchestration, tool use, local/remote model routing, execution loops and human-in-the-loop workflows.</p>
 </td>
 <td width="50%" valign="top">
-
-### Automation & Backends
-FastAPI services, n8n workflows, integrations, business process automation, APIs and operational tooling.
-
+<h3>Automation &amp; Backends</h3>
+<p>FastAPI services, n8n workflows, integrations, business process automation, APIs and operational tooling.</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### Infrastructure
-Linux-first environments, Docker, VPS deployments, Kubernetes/K3s research, observability and service architecture.
-
+<h3>Infrastructure</h3>
+<p>Linux-first environments, Docker, VPS deployments, Kubernetes/K3s research, observability and service architecture.</p>
 </td>
 <td width="50%" valign="top">
-
-### Product Engineering
-Desktop apps, internal platforms, 3D-printing software experiments, dashboards and end-to-end software systems.
-
+<h3>Product Engineering</h3>
+<p>Desktop apps, internal platforms, 3D-printing software experiments, dashboards and end-to-end software systems.</p>
 </td>
 </tr>
 </table>
@@ -97,8 +89,8 @@ Desktop apps, internal platforms, 3D-printing software experiments, dashboards a
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=E8A020" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-111111?style=flat-square&logo=figma&logoColor=E8A020" alt="Figma" />
-  <img src="https://img.shields.io/badge/AI%20Agents-111111?style=flat-square&logo=openai&logoColor=E8A020" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=protocolsdotio&logoColor=E8A020" alt="MCP" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111111?style=flat-square&logoColor=E8A020" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logoColor=E8A020" alt="Model Context Protocol" />
 </p>
 
 ## 05 / OPERATING LOOP
