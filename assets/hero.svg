@@ -1,0 +1,109 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07090B"/>
+      <stop offset="0.48" stop-color="#111315"/>
+      <stop offset="1" stop-color="#090A0B"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(600 170) rotate(90) scale(220 520)">
+      <stop stop-color="#E8A020" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#E8A020" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="330" y1="180" x2="870" y2="180" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8D5A10"/>
+      <stop offset=".35" stop-color="#E8A020"/>
+      <stop offset=".65" stop-color="#F4C66B"/>
+      <stop offset="1" stop-color="#8D5A10"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="clip"><rect width="1200" height="360" rx="22"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+    <rect width="1200" height="360" fill="url(#grid)"/>
+    <rect width="1200" height="360" fill="url(#halo)"/>
+
+    <path d="M0 74H1200M0 286H1200" stroke="#E8A020" stroke-opacity=".08"/>
+    <path d="M102 0L420 360M1098 0L780 360" stroke="#E8A020" stroke-opacity=".035"/>
+
+    <g opacity=".8">
+      <circle cx="120" cy="74" r="2.4" fill="#E8A020">
+        <animate attributeName="cy" values="74;112;74" dur="6s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".25;1;.25" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1080" cy="96" r="2" fill="#F4C66B">
+        <animate attributeName="cy" values="96;54;96" dur="7.4s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".2;.9;.2" dur="7.4s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="990" cy="268" r="1.8" fill="#E8A020">
+        <animate attributeName="cx" values="990;1030;990" dur="8.3s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".15;.8;.15" dur="8.3s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="218" cy="286" r="1.7" fill="#F4C66B">
+        <animate attributeName="cx" values="218;172;218" dur="9s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".15;.85;.15" dur="9s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <g transform="translate(600 84)" filter="url(#glow)">
+      <path d="M0 -42L38 22L0 8L-38 22Z" stroke="url(#gold)" stroke-width="2.2" fill="#E8A020" fill-opacity=".035" stroke-dasharray="12 10">
+        <animate attributeName="stroke-dashoffset" values="0;-88" dur="8s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 -24L18 7L0 1L-18 7Z" fill="#E8A020" fill-opacity=".14"/>
+      <circle cx="0" cy="1" r="2.6" fill="#F4C66B">
+        <animate attributeName="r" values="2.6;5.2;2.6" dur="2.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values=".6;1;.6" dur="2.8s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <text x="600" y="151" text-anchor="middle" fill="#E8A020" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="4.6">AURAE // SYSTEMS ONLINE</text>
+
+    <text x="600" y="205" text-anchor="middle" fill="#F4F4F1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="2">MANUEL CORDOBÉS</text>
+
+    <text x="600" y="240" text-anchor="middle" fill="#B9B9B2" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="3">AI SYSTEMS · AUTOMATION · SOFTWARE · INFRASTRUCTURE</text>
+
+    <g font-family="Segoe UI, Inter, Arial, sans-serif" font-size="11" letter-spacing="1.8">
+      <g transform="translate(397 294)">
+        <circle cx="0" cy="-4" r="3" fill="#E8A020">
+          <animate attributeName="opacity" values=".25;1;.25" dur="2.2s" repeatCount="indefinite"/>
+        </circle>
+        <text x="12" y="0" fill="#8F938C">AGENTS</text>
+      </g>
+      <g transform="translate(520 294)">
+        <circle cx="0" cy="-4" r="3" fill="#E8A020">
+          <animate attributeName="opacity" values=".25;1;.25" dur="2.2s" begin=".5s" repeatCount="indefinite"/>
+        </circle>
+        <text x="12" y="0" fill="#8F938C">AUTOMATION</text>
+      </g>
+      <g transform="translate(682 294)">
+        <circle cx="0" cy="-4" r="3" fill="#E8A020">
+          <animate attributeName="opacity" values=".25;1;.25" dur="2.2s" begin="1s" repeatCount="indefinite"/>
+        </circle>
+        <text x="12" y="0" fill="#8F938C">INFRA</text>
+      </g>
+    </g>
+
+    <rect x="-180" y="0" width="180" height="360" fill="url(#gold)" opacity=".025">
+      <animate attributeName="x" values="-180;1200" dur="8.5s" repeatCount="indefinite"/>
+    </rect>
+
+    <path d="M52 318H1148" stroke="url(#gold)" stroke-opacity=".35" stroke-width="1"/>
+    <circle cx="52" cy="318" r="2" fill="#E8A020">
+      <animate attributeName="cx" values="52;1148;52" dur="12s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values=".15;1;.15" dur="12s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="52" y="338" fill="#595C58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">ARGENTINA // BUILDING GLOBALLY</text>
+    <text x="1148" y="338" text-anchor="end" fill="#595C58" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10">AURAEAI.TECH</text>
+  </g>
+</svg>
