@@ -53,20 +53,7 @@ My focus is not isolated demos. I build systems intended to survive real operati
 </tr>
 </table>
 
-## 03 / SELECTED SYSTEMS
-
-| System | Purpose | Visibility |
-|---|---|---|
-| **Agentclip** | Desktop orchestration environment for delegating work across AI agents and providers. | Private R&D |
-| **AuraSlicer** | 3D-printing software and slicer/toolchain research. | Private R&D |
-| **Jarvis** | Desktop voice/action agent focused on local computer interaction. | Private R&D |
-| **Cerebro Ingeniero** | Engineering knowledge base, agent workflows and software-development reference system. | Private knowledge base |
-| **Kingston System** | Operational ERP and automation platform for real business workflows. | Private production system |
-| **Aurae AI Systems** | Automation, AI agents, integrations and custom software for companies. | Commercial / private |
-
-> **Private by design.** Most production repositories are private because they contain proprietary architecture, internal workflows or client-sensitive implementation details. This profile exposes the engineering surface — what I build, how I think and the systems I am developing — without publishing confidential code.
-
-## 04 / ENGINEERING STACK
+## 03 / ENGINEERING STACK
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=E8A020" alt="Python" />
@@ -94,7 +81,7 @@ My focus is not isolated demos. I build systems intended to survive real operati
   <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logoColor=E8A020" alt="Model Context Protocol" />
 </p>
 
-## 05 / OPERATING LOOP
+## 04 / OPERATING LOOP
 
 ```text
 GOAL
@@ -106,7 +93,7 @@ OBSERVE → PLAN → EXECUTE → VERIFY
 
 The loop matters more than the first attempt. I prefer systems that expose state, verify their own work and improve through iteration instead of assuming success.
 
-## 06 / CURRENT FOCUS
+## 05 / CURRENT FOCUS
 
 - **Agent orchestration:** making multiple AI agents useful as an actual engineering team rather than a collection of chat windows.
 - **Kubernetes & distributed infrastructure:** moving from single-server deployments toward reproducible, resilient service architecture.
@@ -118,7 +105,7 @@ The loop matters more than the first attempt. I prefer systems that expose state
   <img src="https://raw.githubusercontent.com/CordobesManuel-Arch/CordobesManuel-Arch/main/assets/divider.svg?v=3" width="100%" alt="" />
 </p>
 
-## 07 / BUILD WITH ME
+## 06 / BUILD WITH ME
 
 If you are working on **AI systems, automation, agents, infrastructure or software products**, the fastest way to reach me is through Aurae AI or LinkedIn.
 
